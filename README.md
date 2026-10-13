@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Trần Tiểu Ngọc (Mắt Gấu 🐻)</strong> · Graphic Designer — POD & Brand Visual | AI-Powered Workflow<br>
+  <strong>Trần Tiểu Ngọc (Mắt Gấu 🐻)</strong> · Graphic Designer - POD & Brand Visual | AI-Powered Workflow<br>
   <em>"Nơi nghệ thuật thị giác giao thoa cùng tư duy số liệu thương mại và tự động hóa AI."</em>
 </p>
 
@@ -22,7 +22,7 @@
 
 Xin chào! Mình là **Trần Tiểu Ngọc** (Mắt Gấu 🐻), Graphic Designer sinh năm 2000, hiện đang sống và làm việc tại Thủ Đức, TP. Hồ Chí Minh. 
 
-Với hơn **4+ năm gắn bó toàn thời gian tại Vani Ecommerce (08/2022 — Hiện tại)**, mình chuyên sâu thiết kế thời trang **Print-on-Demand (POD)** phục vụ thị trường Mỹ và Châu Âu, xây dựng hệ thống nhận diện thương hiệu thương mại điện tử, đồng thời tiên phong kết hợp **Generative AI** và **Scripting tự động (Photoshop ExtendScript / JSX)** vào quy trình sản xuất thực chiến.
+Với hơn **4+ năm gắn bó toàn thời gian tại Vani Ecommerce (08/2022 - Hiện tại)**, mình chuyên sâu thiết kế thời trang **Print-on-Demand (POD)** phục vụ thị trường Mỹ và Châu Âu, xây dựng hệ thống nhận diện thương hiệu thương mại điện tử, đồng thời tiên phong kết hợp **Generative AI** và **Scripting tự động (Photoshop ExtendScript / JSX)** vào quy trình sản xuất thực chiến.
 
 ### 🏆 Những Con Số Biết Nói
 | Chỉ số | Kết quả thực tế | Ghi chú & Giá trị mang lại |
@@ -37,7 +37,7 @@ Với hơn **4+ năm gắn bó toàn thời gian tại Vani Ecommerce (08/2022 �
 
 ## 🎨 Trưng Bày Tác Phẩm & Case Studies Thực Chiến
 
-### 1. ⚔️ POD Anime Collection — Doanh Thu $20,000+ (Q4/2025)
+### 1. ⚔️ POD Anime Collection - Doanh Thu $20,000+ (Q4/2025)
 > *Bộ sưu tập 50+ mẫu áo thun thời trang ngách Anime Cyberpunk & Neo-Tokyo phục vụ thị trường Mỹ, kết hợp vẽ tay Wacom tỉ mỉ và chuẩn hóa màu in DTG.*
 
 | Key Visual Artwork | Mockup Áo Thực Tế |
@@ -50,7 +50,7 @@ Với hơn **4+ năm gắn bó toàn thời gian tại Vani Ecommerce (08/2022 �
 
 ---
 
-### 2. 🏎️ Racing Apparel Line — Hệ Thống Nhận Diện & Thời Trang Tốc Độ
+### 2. 🏎️ Racing Apparel Line - Hệ Thống Nhận Diện & Thời Trang Tốc Độ
 > *Hệ thống nhận diện thương hiệu ngách Motorsport kết hợp 30 mẫu thiết kế thời trang in tràn viền 3D All-Over-Print (AOP).*
 
 | Hệ Thống Nhận Diện & Logo | Mockup Trang Phục Đua Xe 3D |
@@ -63,7 +63,7 @@ Với hơn **4+ năm gắn bó toàn thời gian tại Vani Ecommerce (08/2022 �
 
 ---
 
-### 3. 📧 E-Commerce Klaviyo Email System — Tỷ Lệ Mở 28%
+### 3. 📧 E-Commerce Klaviyo Email System - Tỷ Lệ Mở 28%
 > *Thiết kế 15+ mẫu email marketing theo phong cách Modular Blocks trên nền tảng Klaviyo, tối ưu tải tức thì trên thiết bị di động.*
 
 | Welcome Series Template | Black Friday Flash Sale Banner |
