@@ -79,10 +79,10 @@ Với hơn **4+ năm gắn bó toàn thời gian tại Vani Ecommerce (08/2022 �
 > *Quy trình sáng tạo 4 bước kết hợp giữa Trí tuệ Nhân tạo, Mỹ thuật Thủ công và Tự động hóa bằng mã nguồn.*
 
 <p align="center">
-  <img src="https://tieungoc.site/images/ai-workflow-infographic.jpg" width="85%" alt="Quy trình AI-First Workflow của Tiểu Ngọc" />
+  <img src="https://raw.githubusercontent.com/tieungoctran/portfolio/main/public/images/ai-workflow-infographic.png" width="95%" alt="Quy trình AI-First Workflow của Tiểu Ngọc" />
 </p>
 
 ```text
   [ Bước 1: Ideation ]       [ Bước 2: AI Visual ]       [ Bước 3: Wacom Craft ]      [ Bước 4: Automation ]
   Nghiên cứu Niche, trend     Tạo concept bằng AI         Vẽ tay chi tiết Wacom,      Chạy Script JSX xuất
-  Pinterest, TikTok US        (Midjourney, Firefly)       Căn chỉnh Typo & CMYK       Mockups & file in tự động
+  Pinterest, TikTok US        (Adobe Firefly)             Căn chỉnh Typo & CMYK       Mockups & file in tự động
