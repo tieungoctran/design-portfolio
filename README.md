@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9e7362&height=200&section=header&text=Trần%20Tiểu%20Ngọc%20%E2%80%94%20Design%20Portfolio&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Graphic%20Designer%20%E2%80%94%20POD%20%7C%20Brand%20Visual%20%7C%20AI-First%20Workflow&descSize=16&descAlignY=70" width="100%" alt="Tieungoc Design Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9e7362&height=200&section=header&text=Trần%20Tiểu%20Ngọc&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Senior%20Graphic%20Designer%20%C2%B7%20E-commerce%20Design%20%C2%B7%20AI-Powered%20Workflow&descSize=16&descAlignY=72" width="100%" alt="Trần Tiểu Ngọc, Senior Graphic Designer" />
 </p>
 
 <p align="center">
-  <strong>Trần Tiểu Ngọc (Mắt Gấu 🐻)</strong> · Graphic Designer - POD & Brand Visual | AI-Powered Workflow<br>
-  <em>"Nơi nghệ thuật thị giác giao thoa cùng tư duy số liệu thương mại và tự động hóa AI."</em>
+  <strong>Trần Tiểu Ngọc (Mắt Gấu 🐻)</strong> · Senior Graphic Designer · E-commerce Design<br>
+  <em>"Dùng AI có gu, tạo sản phẩm có hồn, không rập khuôn."</em><br>
+  <em>AI with taste, design with soul. Never AI slop.</em>
 </p>
 
 <p align="center">
-  <a href="https://tieungoc.site"><img src="https://img.shields.io/badge/Official%20Website-tieungoc.site-9e7362?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://tieungoc.site"><img src="https://img.shields.io/badge/Website-tieungoc.site-9e7362?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/tieungoc-design"><img src="https://img.shields.io/badge/LinkedIn-tieungoc--design-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.behance.net/tieungoctran"><img src="https://img.shields.io/badge/Behance-tieungoctran-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://tieungoc.substack.com/"><img src="https://img.shields.io/badge/Substack-tieungoc-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
@@ -16,73 +17,118 @@
   <a href="mailto:ngoctt.design@gmail.com"><img src="https://img.shields.io/badge/Email-ngoctt.design%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-## 📌 Tổng Quan Về Tiểu Ngọc
-
-Xin chào! Mình là **Trần Tiểu Ngọc** (Mắt Gấu 🐻), Graphic Designer sinh năm 2000, hiện đang sống và làm việc tại Thủ Đức, TP. Hồ Chí Minh. 
-
-Với hơn **4+ năm gắn bó toàn thời gian tại Vani Ecommerce (08/2022 - Hiện tại)**, mình chuyên sâu thiết kế thời trang **Print-on-Demand (POD)** phục vụ thị trường Mỹ và Châu Âu, xây dựng hệ thống nhận diện thương hiệu thương mại điện tử, đồng thời tiên phong kết hợp **Generative AI** và **Scripting tự động (Photoshop ExtendScript / JSX)** vào quy trình sản xuất thực chiến.
-
-### 🏆 Những Con Số Biết Nói
-| Chỉ số | Kết quả thực tế | Ghi chú & Giá trị mang lại |
-| :---: | :---: | :--- |
-| 👕 **3,500+** | Sản phẩm POD | Áo thun 2D/3D, Mugs, Posters, Canvas cho thị trường US & EU |
-| 💰 **$20,000+** | Doanh số / Quý | Bộ sưu tập POD Anime Collection cán mốc doanh số kỷ lục trong Q4/2025 |
-| ⚡ **~40%** | Thời gian tiết kiệm | Nhờ tự lập trình kịch bản Photoshop Actions & JavaScript Scripts (JSX) |
-| 🎯 **28%** | Average Open Rate | Chuỗi Email Marketing Klaviyo (vượt xa chuẩn ngành thương mại điện tử 21%) |
-| 🛡️ **< 0.4%** | Tỷ lệ hoàn trả | Chuẩn hóa quy trình in ấn DTG, AOP và hệ màu CMYK 300 DPI |
-
----
-
-## 🎨 Trưng Bày Tác Phẩm & Case Studies Thực Chiến
-
-### 1. ⚔️ POD Anime Collection - Doanh Thu $20,000+ (Q4/2025)
-> *Bộ sưu tập 50+ mẫu áo thun thời trang ngách Anime Cyberpunk & Neo-Tokyo phục vụ thị trường Mỹ, kết hợp vẽ tay Wacom tỉ mỉ và chuẩn hóa màu in DTG.*
-
-| Key Visual Artwork | Mockup Áo Thực Tế |
-| :---: | :---: |
-| <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=700&q=80" width="100%" alt="Anime Key Visual" /> | <img src="https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=700&q=80" width="100%" alt="Anime T-shirt Mockup" /> |
-| *Bản vẽ Key Visual phong cách Dark Neo-Anime* | *Mockup Streetwear Oversize cho thị trường US/EU* |
-
-- **Công cụ:** Adobe Photoshop, Illustrator, Bảng vẽ Wacom, Adobe Firefly, PS Actions.
-- **Điểm nổi bật:** Tạo chiều sâu với hiệu ứng khói/lửa siêu thực từ AI, hoàn thiện 100% nét vẽ chi tiết bằng bảng vẽ Wacom và tối ưu dải màu in ấn để tránh bệt màu trên chất liệu cotton tối màu.
-
----
-
-### 2. 🏎️ Racing Apparel Line - Hệ Thống Nhận Diện & Thời Trang Tốc Độ
-> *Hệ thống nhận diện thương hiệu ngách Motorsport kết hợp 30 mẫu thiết kế thời trang in tràn viền 3D All-Over-Print (AOP).*
-
-| Hệ Thống Nhận Diện & Logo | Mockup Trang Phục Đua Xe 3D |
-| :---: | :---: |
-| <img src="https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=700&q=80" width="100%" alt="Racing Brand Identity" /> | <img src="https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=700&q=80" width="100%" alt="Racing 3D Apparel Mockup" /> |
-| *Biểu tượng nhận diện Apex Motorsport* | *Thiết kế áo đua 3D in tràn viền khí động học* |
-
-- **Công cụ:** Adobe Illustrator, Photoshop, Wacom Tablet, Banana Pro AI.
-- **Kết quả:** Tăng tỷ lệ nhấp chuột quảng cáo (CTR) lên 45%, hoàn thiện 30 thiết kế thương phẩm chỉ trong 3 tuần.
-
----
-
-### 3. 📧 E-Commerce Klaviyo Email System - Tỷ Lệ Mở 28%
-> *Thiết kế 15+ mẫu email marketing theo phong cách Modular Blocks trên nền tảng Klaviyo, tối ưu tải tức thì trên thiết bị di động.*
-
-| Welcome Series Template | Black Friday Flash Sale Banner |
-| :---: | :---: |
-| <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=700&q=80" width="100%" alt="Klaviyo Email Template" /> | <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=700&q=80" width="100%" alt="Black Friday Visual" /> |
-| *Bố cục phân cấp thị giác rõ ràng, tải nhẹ <200KB* | *Visual tương phản cao kích thích tỷ lệ chuyển đổi* |
-
-- **Kết quả:** Đạt tỷ lệ mở trung bình 28% (so với chuẩn ngành 21%), tỷ lệ Click-to-Open tăng 35%.
-
----
-
-### 4. 🤖 AI-First Workflow & Photoshop Scripting Toolkit
-> *Quy trình sáng tạo 4 bước kết hợp giữa Trí tuệ Nhân tạo, Mỹ thuật Thủ công và Tự động hóa bằng mã nguồn.*
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tieungoctran/portfolio/main/public/images/ai-workflow-infographic.png" width="95%" alt="Quy trình AI-First Workflow của Tiểu Ngọc" />
+  🟢 <strong>Open to work:</strong> Senior Graphic Designer toàn thời gian tại TP. Hồ Chí Minh
 </p>
 
-```text
-  [ Bước 1: Ideation ]       [ Bước 2: AI Visual ]       [ Bước 3: Wacom Craft ]      [ Bước 4: Automation ]
-  Nghiên cứu Niche, trend     Tạo concept bằng AI         Vẽ tay chi tiết Wacom,      Chạy Script JSX xuất
-  Pinterest, TikTok US        (Adobe Firefly)             Căn chỉnh Typo & CMYK       Mockups & file in tự động
+---
+
+## 📌 Giới thiệu
+
+Xin chào! Mình là **Trần Tiểu Ngọc**, Graphic Designer với hơn **4 năm kinh nghiệm E-commerce** tại Vani Ecommerce (08/2022 đến nay), phục vụ thị trường Mỹ và châu Âu.
+
+Mình chuyên thiết kế **sản phẩm, banner quảng cáo Facebook Ads & Google Ads, banner website và mockup 2D/3D**. Thế mạnh của mình là gu thẩm mỹ rõ ràng, dùng AI đúng chỗ và **tự viết Photoshop Actions & Script** để tự động hóa việc lặp lại, giúp cả team làm nhanh hơn mà vẫn giữ chất lượng.
+
+## 🏆 Những con số biết nói
+
+| Chỉ số | Kết quả | Ý nghĩa |
+| :---: | :---: | :--- |
+| 🛍️ **5.000+** | Sản phẩm thiết kế | Quần áo, mũ, cốc, thảm, home living, banner, cover email cho thị trường US/EU |
+| 💰 **~$25.000** | Lợi nhuận team D2C, Q4/2025 | Phụ trách toàn bộ thiết kế cho 3 thương hiệu D2C, từ sản phẩm đến quảng cáo |
+| ⚡ **~40%** | Thời gian sản xuất tiết kiệm | Nhờ Photoshop Actions (.atn) & Script (.jsx) tự viết, cả team đang áp dụng |
+| 🎯 **28%** | Tỷ lệ mở email trung bình | 15+ mẫu email Klaviyo, cao hơn chuẩn ngành e-commerce 21% |
+| 🛡️ **< 0.4%** | Tỷ lệ hoàn trả do lỗi in | Kiểm soát màu CMYK/RGB 300 DPI, tách Halftone cho DTG & All-Over-Print |
+
+## 🎯 Chuyên môn chính
+
+`Thiết kế E-commerce` · `Banner Facebook & Google Ads` · `Banner website & Email` · `Sản phẩm & Mockup 2D/3D` · `Thiết kế ứng dụng AI` · `Tự động hóa Photoshop` · `Chế bản & QC in ấn` · `Nhận diện thương hiệu`
+
+---
+
+## 🗂️ Dự án tiêu biểu
+
+### 1. 🛒 Dự án D2C: 3 thương hiệu E-commerce (Q3–Q4/2025)
+
+> Phụ trách toàn bộ thiết kế cho 3 thương hiệu, phối hợp cùng team D2C từ sản phẩm đến quảng cáo.
+
+| Hạng mục | Nội dung |
+| :--- | :--- |
+| **Sản phẩm in ấn** | T-shirt, áo, quần, cốc, mũ, giày, poster. File in chuẩn, sẵn sàng sản xuất |
+| **Visual marketing** | Banner website, header email Klaviyo, banner quảng cáo Google Ads & Facebook Ads |
+| **Kết quả** | Team D2C đạt **~$25.000 lợi nhuận** trong Q4/2025 |
+
+*Tên thương hiệu và hình ảnh chi tiết được chia sẻ trong buổi phỏng vấn.*
+
+### 2. ⚙️ Photoshop Automation Toolkit
+
+> Tự xây dựng Photoshop Actions (.atn) và Script (.jsx) để xử lý hàng loạt các thao tác lặp lại.
+
+- **Ghép mockup 2D/3D** hàng loạt bằng Displacement Map
+- **Xuất file in 300 DPI** đúng chuẩn nhà in
+- **Đặt tên file theo SKU** tự động
+- **Kết quả:** giảm **~40% thời gian sản xuất** và **99% lỗi đặt tên file**, được áp dụng cho cả team
+
+### 3. 📧 Hệ thống Email Klaviyo
+
+> 15+ mẫu email marketing responsive cho các chiến dịch theo mùa.
+
+- **Kết quả:** tỷ lệ mở trung bình **28%**, cao hơn chuẩn ngành e-commerce 21%
+
+### 4. 🤖 Quy trình làm việc: Con người dẫn dắt, AI tăng tốc
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tieungoctran/portfolio/main/public/images/ai-workflow-infographic.png" width="95%" alt="Quy trình làm việc của Tiểu Ngọc: Insight, AI Ideation, Human Craft, Automation" />
+</p>
+
+| Bước | Việc làm | Công cụ |
+| :---: | :--- | :--- |
+| **01. Insight & Trend** | Nghiên cứu khách hàng, văn hóa và xu hướng US/EU | ChatGPT, Claude, Pinterest |
+| **02. Ý tưởng cùng AI** | Moodboard và biến thể nhanh, chọn lọc bằng gu | Adobe Firefly, ChatGPT Image, Gemini |
+| **03. Đôi tay Designer** | Vẽ Wacom, typography, kiểm soát màu in CMYK | Photoshop, Illustrator, Wacom |
+| **04. Tự động hóa** | Action & Script xử lý việc lặp lại hàng loạt | PS Scripts (.jsx), Actions (.atn) |
+
+---
+
+## 🧰 Công cụ
+
+| Nhóm | Công cụ |
+| :--- | :--- |
+| **Thiết kế** | Photoshop · Illustrator · Wacom · Canva Pro · CapCut Pro |
+| **AI** | Adobe Firefly · ChatGPT Image · Claude · Gemini · AI Agent |
+| **Tự động hóa** | PS Scripts (.jsx) · Actions (.atn) · Batch Mockups |
+| **Nền tảng E-com** | Shopify · WooCommerce · Etsy · Amazon · Klaviyo |
+
+---
+
+## 📄 Resume
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="assets/Tran-Tieu-Ngoc-Resume-VI.pdf"><img src="assets/resume-preview-vi.png" width="100%" alt="CV tiếng Việt của Trần Tiểu Ngọc" /></a><br>
+      <a href="assets/Tran-Tieu-Ngoc-Resume-VI.pdf"><strong>📥 Tải CV tiếng Việt (PDF)</strong></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="assets/Tran-Tieu-Ngoc-Resume-EN.pdf"><img src="assets/resume-preview-en.png" width="100%" alt="English resume of Tran Tieu Ngoc" /></a><br>
+      <a href="assets/Tran-Tieu-Ngoc-Resume-EN.pdf"><strong>📥 Download English Resume (PDF)</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Học vấn
+
+**Cử nhân Thiết kế Đồ họa & Truyền thông**, Trường ĐH Công nghệ Kỹ thuật TP.HCM (HCMUTE), 2018 - 2022
+
+## 📬 Liên hệ
+
+Mình đang tìm vị trí **Senior Graphic Designer toàn thời gian tại TP.HCM**, ưu tiên team E-commerce hoặc Marketing. Nếu bạn cần một designer vừa có gu vừa làm nhanh, cứ nhắn mình nhé!
+
+- 🌐 Portfolio: [tieungoc.site](https://tieungoc.site)
+- 📩 Email: [ngoctt.design@gmail.com](mailto:ngoctt.design@gmail.com)
+- 💼 LinkedIn: [in/tieungoc-design](https://www.linkedin.com/in/tieungoc-design)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9e7362&height=100&section=footer" width="100%" alt="" />
+</p>
