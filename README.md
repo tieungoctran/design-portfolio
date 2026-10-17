@@ -102,18 +102,8 @@ Mình chuyên thiết kế **sản phẩm, banner quảng cáo Facebook Ads & Go
 
 ## 📄 Resume
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="assets/Tran-Tieu-Ngoc-Resume-VI.pdf"><img src="assets/resume-preview-vi.png" width="100%" alt="CV tiếng Việt của Trần Tiểu Ngọc" /></a><br>
-      <a href="assets/Tran-Tieu-Ngoc-Resume-VI.pdf"><strong>📥 Tải CV tiếng Việt (PDF)</strong></a>
-    </td>
-    <td align="center" width="50%">
-      <a href="assets/Tran-Tieu-Ngoc-Resume-EN.pdf"><img src="assets/resume-preview-en.png" width="100%" alt="English resume of Tran Tieu Ngoc" /></a><br>
-      <a href="assets/Tran-Tieu-Ngoc-Resume-EN.pdf"><strong>📥 Download English Resume (PDF)</strong></a>
-    </td>
-  </tr>
-</table>
+CV đầy đủ (tiếng Việt & tiếng Anh) được gửi qua email theo yêu cầu.
+📩 [ngoctt.design@gmail.com](mailto:ngoctt.design@gmail.com?subject=Xin%20CV%20Tr%E1%BA%A7n%20Ti%E1%BB%83u%20Ng%E1%BB%8Dc)
 
 ---
 
